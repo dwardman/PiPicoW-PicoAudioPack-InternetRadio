@@ -4,6 +4,14 @@ This is an Arduino code Fork of wfmu-rp2040-pimoroni-radio with console logging 
 
 Future plans include push buttons for 5 radio station options and Wifi and station configuration through serial or Web interface.
 
+## Overclocking
+
+This project utilizes overclocking to enhance performance, setting the system clock to **250 MHz**. This may improve streaming and processing capabilities, but it can also lead to increased heat output and power consumption. Use overclocking at your own risk.
+
+## Disclaimer
+
+This code is provided "as is" without warranty of any kind. The author takes no responsibility for any damages or issues that may arise from its use. Use at your own risk.
+
 ## Bill of Materials (BOM)
 
 - [Raspberry Pi Pico W](https://shop.pimoroni.com/products/raspberry-pi-pico-w) - The main board.
