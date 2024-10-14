@@ -1,4 +1,4 @@
-# WFMU RP2040 Pimoroni Internet Radio
+# Pi Pico W - Pico Audio Pack - Internet Radio
 
 This is an Arduino code Fork of wfmu-rp2040-pimoroni-radio with console logging improvements and dual core.  Code is currently streaming SomaFM and includes enhancements for better WiFi connectivity and metadata logging.
 
