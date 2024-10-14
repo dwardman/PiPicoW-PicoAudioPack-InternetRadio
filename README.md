@@ -1,6 +1,6 @@
 # WFMU RP2040 Pimoroni Internet Radio
 
-This is the Arduino code that powers internet radio, currently streaming SomaFM and includes enhancements for better WiFi connectivity and metadata logging.
+This is an Arduino code Fork of wfmu-rp2040-pimoroni-radio with console logging improvements and dual core.  Code is currently streaming SomaFM and includes enhancements for better WiFi connectivity and metadata logging.
 
 Future plans include push buttons for 5 radio station options and Wifi and station configuration through serial or Web interface.
 
